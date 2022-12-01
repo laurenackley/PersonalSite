@@ -2,4 +2,20 @@
   background-color: #FFE4E1;
   color: #20B2AA;
   font-family: fantasy;
+  border-radius: 25px;
+  text-align: center;
+}
+body{
+  background-color: cornflowerblue;
+}
+#carouselExampleCaptions{
+text-align: center;
+color: maroon;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel-caption{
+color: maroon;
 }
